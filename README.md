@@ -1,23 +1,27 @@
-#  [Base Calculator](http://karenfreemansmith.github.io/freshstart)
-![project screenshot](/img/screenshot.jpg)
+# Base Calculator
+Version 0.0.1: August 17, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Caleb Paul](https://github.com/CalebPaul)
 
-__Version 1: April 3, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-### Description
-__*A blank website with basic files setup for starting new projects with local Bootstrap and jQuery files linked.*__
+![screenshot of project running](screenshot.png)
 
-## Technologies Used
-HTML, CSS
+## Description
+*[Epicocus](http://epicodus.com) Intro to Programming Week 3 Pair Project with Caleb Paul: A website that converts between bases.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk3-BaseCalculator)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
+
+## Specifications
+* Enter a decimal number.
+* Convert to specified base (2/8/16 etc)
 
 ## Known Issues
 * None
@@ -25,4 +29,4 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 ## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io) & [Caleb Paul](https://github.com/CalebPaul)_ All Rights Reserved.
